@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>𝐓ʜᴇ 𝗣𝗕x𝗕𝗢𝗧 🇮🇳</b>
+  <b> 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗦𝗘𝗥𝗕𝗢𝗧 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/758479c8a8e59aa33f8c3.jpg" alt="ll_PBX_ll">
+  <img src="https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg" alt="ll_PBX_ll">
 </p>
 
 <h6 align="center">
-  <b> ⚠️ 𝐋ᴇɢᴇɴᴅᴀʀʏ 𝐏ʙxʙᴏᴛ ⚠️</b>
+  <b> ⚠️ 𝐋ᴇɢᴇɴᴅᴀʀʏ 𝐒ᴛʀᴀɴɢᴇʀʙᴏᴛ ⚠️</b>
 </h6>
 
 <h3 align="center">
@@ -15,17 +15,17 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/MXNIHACKER/DevilXUser?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/MXNIHACKER/DevilXUser?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SHIVANSH474/SHUKLA-USERBOT?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/SHIVANSH474/SHUKLA-USERBOT?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/MXNIHACKER/DevilXUser?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/SHIVANSH474/SHUKLA-USERBOT?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/MXNIHACKER/DevilXUser?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/SHIVANSH474/SHUKLA-USERBOT?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/MXNIHACKER/DevilXUser?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/SHIVANSH474/SHUKLA-USERBOT?&style=social&logo=hyper)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_BAD_MUNDA_WORLD_ll)
 
@@ -36,18 +36,13 @@
 - [![Heroku](https://img.shields.io/badge/𝐏ʙxʙᴏᴛ-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
 ------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/leMyoT-qDH4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/leMyoT-qDH4)
-
-------
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MXNIHACKER/DevilXUser)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SHIVANSH474/SHUKLA-USERBOT)
 
 ------
 ## Variables
